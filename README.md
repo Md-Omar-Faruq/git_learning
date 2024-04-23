@@ -1,2 +1,3 @@
 # my git learning
-hey i am omar faruq, i learn to hwo to use version control system using github
+Hey, I am Omar faruq, I learned to how to use a version control system using GitHub.
+This is my second commit on the readme file.
